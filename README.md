@@ -1,16 +1,22 @@
-# Fake-Instagram-Follower-Phishing-
+# Fake Instagram Follower Phishing
 It is simple layout which looks like a free instagram follower increasing site but actually its a phishing page which captures the login info of users.
 
-# Demo
-https://xploitwizer.me/InstaFollowers  (Not Available)
+فیشینگ اینستاگرام با فیک پیج فالور فیک
 
-How to use :
-> just host it on a hosting and change permission of login.txt to 777
+# How to use :
+<pre><code>
+$ git clone https://github.com/it4min/instagram-phishing/
+$ cd instagram-phishing
+$ php -S localhost:8080
+</pre></code>
 
+# Prerequisites for installation on Termux
+<pre><code>
+$ pkg install php -y
+</pre></code>
 
-# Happy Hacking 
+# Full tutorial on YouTube
+Youtube : 
 
-### XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-### Instagram-Follower-Phishing is built for Educational Purpose. Use at your own Risk.
-
-# Team XploitWizer 
+# Telegram Channel 
+<a href="t.me/LinuxArmy">Click to join<a> 
