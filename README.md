@@ -19,4 +19,4 @@ $ pkg install php -y
 Youtube : 
 
 # Telegram Channel 
-<a href="t.me/LinuxArmy">Click to join<a> 
+<a href="https://t.me/LinuxArmy">Click to join<a> 
