@@ -12,7 +12,7 @@ $ php -S localhost:8080
 
 # Prerequisites for installation on Termux
 <pre><code>
-$ pkg install php -y
+$ pkg install php git -y
 </pre></code>
 
 # Full tutorial on YouTube
