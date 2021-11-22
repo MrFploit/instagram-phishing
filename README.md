@@ -16,7 +16,7 @@ $ pkg install php git -y
 </pre></code>
 
 # Full tutorial on YouTube
-Youtube : 
+Youtube : https://youtu.be/hPrpU6BI7AQ
 
 # Telegram Channel 
 <a href="https://t.me/LinuxArmy">Click to join<a> 
